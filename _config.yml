@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Images
     description                           : Add images to your Pearls, either with your reminder or by themselves.
-    fontawesome_icon_name                 : picture-o
+    fontawesome_icon_name                 : picture
 
   - title                                 : Sync across devices
     description                           : Works on iPad, Mac, and Apple Watch.
@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : Helpful Widgets
     description                           : Use widgets on your homescreen or lockscreen.
-    fontawesome_icon_name                 : square-o
+    fontawesome_icon_name                 : square
   
   - title                                 : Sounds
     description                           : Add custom notification sounds.
