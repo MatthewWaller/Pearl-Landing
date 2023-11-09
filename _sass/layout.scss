@@ -381,17 +381,16 @@ nav > ul li a:active {
 .iphonePreview {
 	grid-area: p;
 	background-image: url($device-color);
-	background-size: 380px auto;
+	background-size: 388px auto;
 	background-repeat: no-repeat;
-	margin-top: 68px;
+	margin-top: 60px;
 }
 
 .iphoneScreen {
-	width: 349px;
-	-webkit-clip-path: url(#screenMask);
-	clip-path: url(#screenMask);
-	margin-left: 26px;
-	margin-top: 23px;
+	width: 350px;
+	margin-left: 23px;
+	margin-top: 12px;
+	border-radius: 50px;
 }
 
 .videoContainer {
